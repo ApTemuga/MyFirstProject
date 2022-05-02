@@ -91,15 +91,16 @@
             FontSize="15"
             Margin="-20,-5,-20,0"
             />
-        <Button x:Name="RegButton"
+        <Button x:Name="ToAutButtonR"
             Grid.Column="1"
             Grid.ColumnSpan="2"
             Grid.Row="9"
             Background="#3FFFFFFF" 
             BorderBrush="#3FABADB3"
             Content="Войти"
+            Command="{Binding ChangeToAutWindow}"
             />
-        <Button x:Name="ToAutButtonR"
+        <Button x:Name="RegButton"
             Grid.Column="4"
             Grid.ColumnSpan="2"
             Grid.Row="9"

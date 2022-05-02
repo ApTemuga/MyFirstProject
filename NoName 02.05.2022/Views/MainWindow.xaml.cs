@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NoName_02._05._2022.ViewsModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,7 @@ namespace Views.NoName_02._05._2022
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new AutWindowModel();
         }
     }
 }

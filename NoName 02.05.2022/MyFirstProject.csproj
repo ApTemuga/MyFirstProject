@@ -55,9 +55,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Command\BaseCommands.cs" />
+    <Compile Include="ViewsModel\AutWindowModel.cs" />
+    <Compile Include="ViewsModel\RegWindowModel.cs" />
     <Compile Include="Views\RegWindow.xaml.cs">
       <DependentUpon>RegWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WindowsBuilder.cs" />
     <Page Include="ResDictionary.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

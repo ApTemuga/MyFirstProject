@@ -13,5 +13,10 @@ namespace NoName_02._05._2022
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            WindowsBuilder.ShowAutWindow();
+            base.OnStartup(e);
+        }
     }
 }

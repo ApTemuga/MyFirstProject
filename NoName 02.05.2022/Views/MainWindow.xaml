@@ -63,7 +63,8 @@
             Grid.Row="5"
             Content="Зарегистрироваться" 
             Background="#7FDDDDDD" 
-            BorderBrush="#7F707070"/>
+            BorderBrush="#7F707070"
+            Command="{Binding ChangeToRegWindow}"/>
         <Button x:Name="EnterButtonA"
             Grid.Column="4"
             Grid.ColumnSpan="2"
