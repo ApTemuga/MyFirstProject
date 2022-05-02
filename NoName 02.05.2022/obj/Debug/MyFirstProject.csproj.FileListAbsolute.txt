@@ -1,0 +1,15 @@
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\bin\Debug\NoName 02.05.2022.exe.config
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\bin\Debug\NoName 02.05.2022.exe
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\bin\Debug\NoName 02.05.2022.pdb
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\App.g.cs
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName 02.05.2022_MarkupCompile.cache
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName 02.05.2022_MarkupCompile.lref
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName 02.05.2022.g.resources
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName_02._05._2022.Properties.Resources.resources
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\MyFirstProject.csproj.GenerateResource.cache
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName 02.05.2022.exe
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName 02.05.2022.pdb
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\Views\MainWindow.g.cs
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\Views\MainWindow.baml
