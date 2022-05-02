@@ -13,3 +13,7 @@ C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\D
 C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\NoName 02.05.2022.pdb
 C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\Views\MainWindow.g.cs
 C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\Views\MainWindow.baml
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\ResDictionary.baml
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\App.baml
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\Views\RegWindow.g.cs
+C:\Погорный Владислав\NoName 02.05.2022\NoName 02.05.2022\obj\Debug\Views\RegWindow.baml
